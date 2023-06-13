@@ -20,6 +20,10 @@ Ecommerce static webpages
     
 6] product details page -
     user can see the product details here.  
+    
+7] cart page -
+    user can view added products here 
+   
 
     
    
