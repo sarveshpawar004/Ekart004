@@ -5,5 +5,6 @@ Ecommerce static webpages
  
  1] login page -
      for user authentication
+     
  2] register page -   
      where user can create his account with Ekart application
